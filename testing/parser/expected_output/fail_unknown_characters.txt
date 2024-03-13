@@ -1,0 +1,37 @@
+
+Unrecognized character: *  => Line 13 Col 31
+Error: syntax error line: 13
+Error: [1;31m Improper Expression [0m line: 13
+Error: syntax error line: 14
+Error: [1;31m Improper Expression [0m line: 14
+Error: syntax error line: 15
+Error: [1;31m Improper Expression [0m line: 19
+Error: syntax error line: 20
+Error: [1;31m Improper Expression [0m line: 20
+Error: syntax error line: 21
+Error: [1;31m Improper Expression [0m line: 21
+Error: syntax error line: 22
+
+Unrecognized character: #  => Line 22 Col 11
+Error: [1;31m Improper Expression [0m line: 22
+Error: syntax error line: 23
+Error: [1;31m Improper Expression [0m line: 23
+Error: syntax error line: 24
+Error: [1;31m Improper Expression [0m line: 26
+Error: syntax error line: 27
+Error: [1;31m Improper Expression [0m line: 27
+Error: syntax error line: 29
+Error: [1;31m Improper Expression [0m line: 30
+Error: syntax error line: 31
+
+Unrecognized character: $  => Line 31 Col 22
+Error: [1;31m Improper Expression [0m line: 31
+Error: syntax error line: 32
+Error: [1;31m Improper Expression [0m line: 32
+Error: syntax error line: 33
+Error: [1;31m Improper Expression [0m line: 36
+Error: syntax error line: 37
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+

@@ -1,0 +1,29 @@
+
+(                      TagNum: 277    Line: 1     Col: 1          
+)                      TagNum: 278    Line: 2     Col: 1          
+{                      TagNum: 281    Line: 3     Col: 1          
+}                      TagNum: 282    Line: 4     Col: 1          
+[                      TagNum: 279    Line: 5     Col: 1          
+]                      TagNum: 280    Line: 6     Col: 1          
+<                      TagNum: 284    Line: 7     Col: 1          
+>                      TagNum: 283    Line: 8     Col: 1          
+!                      TagNum: 285    Line: 9     Col: 1          
++                      TagNum: 286    Line: 10    Col: 1          
+-                      TagNum: 287    Line: 11    Col: 1          
+&&                     TagNum: 288    Line: 12    Col: 1          
+||                     TagNum: 289    Line: 13    Col: 1          
+==>                    TagNum: 290    Line: 14    Col: 1          
+=                      TagNum: 291    Line: 15    Col: 1          
+=>                     TagNum: 292    Line: 16    Col: 1          
+==                     TagNum: 293    Line: 17    Col: 1          
+!=                     TagNum: 294    Line: 18    Col: 1          
+|                      TagNum: 295    Line: 19    Col: 1          
+?                      TagNum: 296    Line: 20    Col: 1          
+@                      TagNum: 297    Line: 21    Col: 1          
+.                      TagNum: 298    Line: 22    Col: 1          
+:                      TagNum: 299    Line: 23    Col: 1          
+::                     TagNum: 300    Line: 24    Col: 1          
+,                      TagNum: 301    Line: 25    Col: 1          
+;                      TagNum: 302    Line: 26    Col: 1          
+There were no unrecognized tokens
+Token Count : 26

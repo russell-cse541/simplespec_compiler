@@ -1,0 +1,123 @@
+
+a                      TagNum: 305    Line: 1     Col: 1          
+b                      TagNum: 305    Line: 1     Col: 3          
+c                      TagNum: 305    Line: 1     Col: 5          
+d                      TagNum: 305    Line: 1     Col: 7          
+e                      TagNum: 305    Line: 1     Col: 9          
+f                      TagNum: 305    Line: 1     Col: 11         
+g                      TagNum: 305    Line: 1     Col: 13         
+h                      TagNum: 305    Line: 1     Col: 15         
+i                      TagNum: 305    Line: 1     Col: 17         
+j                      TagNum: 305    Line: 1     Col: 19         
+k                      TagNum: 305    Line: 1     Col: 21         
+l                      TagNum: 305    Line: 1     Col: 23         
+m                      TagNum: 305    Line: 1     Col: 25         
+n                      TagNum: 305    Line: 1     Col: 27         
+o                      TagNum: 305    Line: 1     Col: 29         
+p                      TagNum: 305    Line: 1     Col: 31         
+q                      TagNum: 305    Line: 1     Col: 33         
+r                      TagNum: 305    Line: 1     Col: 35         
+s                      TagNum: 305    Line: 1     Col: 37         
+t                      TagNum: 305    Line: 1     Col: 39         
+u                      TagNum: 305    Line: 1     Col: 41         
+v                      TagNum: 305    Line: 1     Col: 43         
+w                      TagNum: 305    Line: 1     Col: 45         
+x                      TagNum: 305    Line: 1     Col: 47         
+y                      TagNum: 305    Line: 1     Col: 49         
+z                      TagNum: 305    Line: 1     Col: 51         
+a1                     TagNum: 305    Line: 2     Col: 1          
+b1                     TagNum: 305    Line: 2     Col: 4          
+c1                     TagNum: 305    Line: 2     Col: 7          
+d1                     TagNum: 305    Line: 2     Col: 10         
+e1                     TagNum: 305    Line: 2     Col: 13         
+f1                     TagNum: 305    Line: 2     Col: 16         
+g1                     TagNum: 305    Line: 2     Col: 19         
+h1                     TagNum: 305    Line: 2     Col: 22         
+i1                     TagNum: 305    Line: 2     Col: 25         
+j1                     TagNum: 305    Line: 2     Col: 28         
+k1                     TagNum: 305    Line: 2     Col: 31         
+l1                     TagNum: 305    Line: 2     Col: 34         
+m1                     TagNum: 305    Line: 2     Col: 37         
+n1                     TagNum: 305    Line: 2     Col: 40         
+o1                     TagNum: 305    Line: 2     Col: 43         
+p1                     TagNum: 305    Line: 2     Col: 46         
+q1                     TagNum: 305    Line: 2     Col: 49         
+r1                     TagNum: 305    Line: 2     Col: 52         
+s1                     TagNum: 305    Line: 2     Col: 55         
+t1                     TagNum: 305    Line: 2     Col: 58         
+u1                     TagNum: 305    Line: 2     Col: 61         
+v1                     TagNum: 305    Line: 2     Col: 64         
+w1                     TagNum: 305    Line: 2     Col: 67         
+x1                     TagNum: 305    Line: 2     Col: 70         
+y1                     TagNum: 305    Line: 2     Col: 73         
+z1                     TagNum: 305    Line: 2     Col: 76         
+true                   TagNum: 274    Line: 3     Col: 1          
+false                  TagNum: 275    Line: 3     Col: 6          
+aaBB                   TagNum: 305    Line: 4     Col: 1          
+ccDD                   TagNum: 305    Line: 4     Col: 6          
+eeFF                   TagNum: 305    Line: 4     Col: 11         
+ggHH                   TagNum: 305    Line: 4     Col: 16         
+iiJJ                   TagNum: 305    Line: 4     Col: 21         
+kkLL                   TagNum: 305    Line: 4     Col: 26         
+mmNN                   TagNum: 305    Line: 4     Col: 31         
+ooPP                   TagNum: 305    Line: 4     Col: 36         
+qqRR                   TagNum: 305    Line: 4     Col: 41         
+ssTT                   TagNum: 305    Line: 4     Col: 46         
+uuVV                   TagNum: 305    Line: 4     Col: 51         
+wwXX                   TagNum: 305    Line: 4     Col: 56         
+yyZZ                   TagNum: 305    Line: 4     Col: 61         
+a1B2                   TagNum: 305    Line: 5     Col: 1          
+c3D4                   TagNum: 305    Line: 5     Col: 6          
+e5F6                   TagNum: 305    Line: 5     Col: 11         
+
+Unrecognized Token Line : 5 Column : 16 
+
+
+g7H8                   TagNum: 305    Line: 5     Col: 18         
+i9J0                   TagNum: 305    Line: 5     Col: 23         
+k1L2                   TagNum: 305    Line: 5     Col: 28         
+m3N4                   TagNum: 305    Line: 5     Col: 33         
+o5P6                   TagNum: 305    Line: 5     Col: 38         
+q7R8                   TagNum: 305    Line: 5     Col: 43         
+s9T0                   TagNum: 305    Line: 5     Col: 48         
+u1V2                   TagNum: 305    Line: 5     Col: 53         
+w3X4                   TagNum: 305    Line: 5     Col: 58         
+y5Z6                   TagNum: 305    Line: 5     Col: 63         
+aaaaa                  TagNum: 305    Line: 6     Col: 1          
+bbbbb                  TagNum: 305    Line: 6     Col: 7          
+ccccc                  TagNum: 305    Line: 6     Col: 13         
+ddddd                  TagNum: 305    Line: 6     Col: 19         
+eeeee                  TagNum: 305    Line: 6     Col: 25         
+fffff                  TagNum: 305    Line: 6     Col: 31         
+ggggg                  TagNum: 305    Line: 6     Col: 37         
+hhhhh                  TagNum: 305    Line: 6     Col: 43         
+iiiii                  TagNum: 305    Line: 6     Col: 49         
+jjjjj                  TagNum: 305    Line: 6     Col: 55         
+kkkkk                  TagNum: 305    Line: 6     Col: 61         
+lllll                  TagNum: 305    Line: 6     Col: 67         
+mmmmm                  TagNum: 305    Line: 6     Col: 73         
+nnnnn                  TagNum: 305    Line: 6     Col: 79         
+ooooo                  TagNum: 305    Line: 6     Col: 85         
+ppppp                  TagNum: 305    Line: 6     Col: 91         
+qqqqq                  TagNum: 305    Line: 6     Col: 97         
+rrrrr                  TagNum: 305    Line: 6     Col: 103        
+sssss                  TagNum: 305    Line: 6     Col: 109        
+ttttt                  TagNum: 305    Line: 6     Col: 115        
+uuuuu                  TagNum: 305    Line: 6     Col: 121        
+vvvvv                  TagNum: 305    Line: 6     Col: 127        
+wwwww                  TagNum: 305    Line: 6     Col: 133        
+xxxxx                  TagNum: 305    Line: 6     Col: 139        
+yyyyy                  TagNum: 305    Line: 6     Col: 145        
+zzzzz                  TagNum: 305    Line: 6     Col: 151        
+namespace11            TagNum: 305    Line: 7     Col: 1          
+using22namespace       TagNum: 305    Line: 8     Col: 1          
+truefalse              TagNum: 305    Line: 8     Col: 18         
+true22false33          TagNum: 305    Line: 8     Col: 28         
+false44true55          TagNum: 305    Line: 8     Col: 42         
+
+Below is a list of errors (500 max)
+-----------------------------------
+Unrecognized Token On line 4 column 16
+
+
+Token Count : 111

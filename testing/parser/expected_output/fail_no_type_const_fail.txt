@@ -1,0 +1,27 @@
+Error: syntax error line: 18
+Error: [1;31m Improper Declaration [0m line: 18
+Error: syntax error line: 20
+Error: [1;31m Improper Declaration [0m line: 21
+Error: syntax error line: 22
+Error: [1;31m Improper Declaration [0m line: 22
+Error: syntax error line: 23
+Error: [1;31m Improper Declaration [0m line: 23
+Error: syntax error line: 24
+Error: [1;31m Improper Declaration [0m line: 24
+Error: syntax error line: 25
+Error: [1;31m Improper Declaration [0m line: 25
+Error: syntax error line: 26
+Error: [1;31m Improper Declaration [0m line: 28
+Error: syntax error line: 29
+Error: [1;31m Improper Declaration [0m line: 29
+Error: syntax error line: 31
+Error: [1;31m Improper Declaration [0m line: 32
+Error: syntax error line: 33
+Error: [1;31m Improper Declaration [0m line: 33
+Error: syntax error line: 34
+Error: [1;31m Improper Declaration [0m line: 34
+Error: syntax error line: 35
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+

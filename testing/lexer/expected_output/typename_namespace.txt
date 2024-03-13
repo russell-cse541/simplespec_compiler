@@ -1,0 +1,39 @@
+
+Main                   TagNum: 303    Line: 1     Col: 1          
+A                      TagNum: 303    Line: 2     Col: 1          
+B                      TagNum: 303    Line: 2     Col: 3          
+C                      TagNum: 303    Line: 2     Col: 5          
+D                      TagNum: 303    Line: 2     Col: 7          
+E                      TagNum: 303    Line: 2     Col: 9          
+F                      TagNum: 303    Line: 2     Col: 11         
+G                      TagNum: 303    Line: 2     Col: 13         
+H                      TagNum: 303    Line: 2     Col: 15         
+I                      TagNum: 303    Line: 2     Col: 17         
+J                      TagNum: 303    Line: 2     Col: 19         
+K                      TagNum: 303    Line: 2     Col: 21         
+L                      TagNum: 303    Line: 2     Col: 23         
+M                      TagNum: 303    Line: 2     Col: 25         
+N                      TagNum: 303    Line: 2     Col: 27         
+O                      TagNum: 303    Line: 2     Col: 29         
+P                      TagNum: 303    Line: 2     Col: 31         
+Q                      TagNum: 303    Line: 2     Col: 33         
+R                      TagNum: 303    Line: 2     Col: 35         
+S                      TagNum: 303    Line: 2     Col: 37         
+T                      TagNum: 303    Line: 2     Col: 39         
+U                      TagNum: 303    Line: 2     Col: 41         
+V                      TagNum: 303    Line: 2     Col: 43         
+W                      TagNum: 303    Line: 2     Col: 45         
+X                      TagNum: 303    Line: 2     Col: 47         
+Y                      TagNum: 303    Line: 2     Col: 49         
+Z                      TagNum: 303    Line: 2     Col: 51         
+A0                     TagNum: 303    Line: 3     Col: 1          
+B77                    TagNum: 303    Line: 3     Col: 4          
+C98                    TagNum: 303    Line: 3     Col: 8          
+C00                    TagNum: 303    Line: 3     Col: 12         
+D87                    TagNum: 303    Line: 3     Col: 16         
+Z03                    TagNum: 303    Line: 3     Col: 20         
+T8hHkYl                TagNum: 303    Line: 6     Col: 1          
+G00HHGGLLzzHHkk        TagNum: 303    Line: 8     Col: 1          
+P88XooXhh478579987238hhk   TagNum: 303    Line: 8     Col: 17         
+There were no unrecognized tokens
+Token Count : 36

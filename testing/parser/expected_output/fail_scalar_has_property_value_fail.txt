@@ -1,0 +1,6 @@
+Error: syntax error line: 15
+Error: [1;31m Improper Model/Scalar [0m line: 15
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+

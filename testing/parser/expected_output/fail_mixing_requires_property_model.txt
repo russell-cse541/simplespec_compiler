@@ -1,0 +1,10 @@
+Error: syntax error line: 21
+Error: [1;31m Improper Model/Scalar [0m line: 21
+Error: syntax error line: 22
+Error: [1;31m Improper Model/Scalar [0m line: 22
+Error: syntax error line: 23
+Error: [1;31m Improper Model/Scalar [0m line: 23
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+

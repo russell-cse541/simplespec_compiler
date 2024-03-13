@@ -1,0 +1,5 @@
+
+"hello this is an ascii string"   TagNum: 309    Line: 1     Col: 1          
+'hello this is a unicode string \u018e and % \xc6\x8e string \xc3\xb1 hopefully!'   TagNum: 310    Line: 4     Col: 1          
+There were no unrecognized tokens
+Token Count : 2

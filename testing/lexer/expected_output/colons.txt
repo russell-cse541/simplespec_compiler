@@ -1,0 +1,19 @@
+
+::                     TagNum: 300    Line: 1     Col: 1          
+::                     TagNum: 300    Line: 1     Col: 3          
+::                     TagNum: 300    Line: 1     Col: 5          
+::                     TagNum: 300    Line: 1     Col: 7          
+:                      TagNum: 299    Line: 1     Col: 10         
+::                     TagNum: 300    Line: 1     Col: 12         
+::                     TagNum: 300    Line: 3     Col: 1          
+::                     TagNum: 300    Line: 5     Col: 1          
+:                      TagNum: 299    Line: 5     Col: 3          
+:                      TagNum: 299    Line: 5     Col: 11         
+::                     TagNum: 300    Line: 5     Col: 13         
+::                     TagNum: 300    Line: 5     Col: 16         
+:                      TagNum: 299    Line: 5     Col: 19         
+::                     TagNum: 300    Line: 6     Col: 1          
+::                     TagNum: 300    Line: 6     Col: 4          
+:                      TagNum: 299    Line: 6     Col: 6          
+There were no unrecognized tokens
+Token Count : 16

@@ -1,0 +1,19 @@
+
+||                     TagNum: 289    Line: 1     Col: 1          
+|                      TagNum: 295    Line: 1     Col: 3          
+||                     TagNum: 289    Line: 1     Col: 5          
+||                     TagNum: 289    Line: 1     Col: 8          
+|                      TagNum: 295    Line: 1     Col: 11         
+||                     TagNum: 289    Line: 1     Col: 13         
+|                      TagNum: 295    Line: 2     Col: 1          
+||                     TagNum: 289    Line: 2     Col: 4          
+||                     TagNum: 289    Line: 2     Col: 7          
+|                      TagNum: 295    Line: 2     Col: 10         
+|                      TagNum: 295    Line: 2     Col: 13         
+|                      TagNum: 295    Line: 2     Col: 17         
+|                      TagNum: 295    Line: 3     Col: 1          
+||                     TagNum: 289    Line: 4     Col: 1          
+||                     TagNum: 289    Line: 6     Col: 1          
+||                     TagNum: 289    Line: 6     Col: 3          
+There were no unrecognized tokens
+Token Count : 16

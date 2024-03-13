@@ -1,0 +1,19 @@
+Error: syntax error line: 14
+Error: [1;31m Improper Model/Scalar [0m line: 14
+Error: syntax error line: 27
+Error: [1;31m Improper Declaration [0m line: 27
+Error: syntax error line: 28
+Error: [1;31m Improper Declaration [0m line: 28
+Error: syntax error line: 30
+Error: [1;31m Improper Declaration [0m line: 31
+Error: syntax error line: 32
+Error: [1;31m Improper Declaration [0m line: 32
+Error: syntax error line: 33
+Error: [1;31m Improper Declaration [0m line: 33
+Error: syntax error line: 34
+Error: [1;31m Improper Declaration [0m line: 37
+Error: syntax error line: 38
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+

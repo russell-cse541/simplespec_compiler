@@ -1,0 +1,93 @@
+
+-0n                    TagNum: 306    Line: 1     Col: 1          
+0n                     TagNum: 306    Line: 1     Col: 5          
+-0i                    TagNum: 307    Line: 1     Col: 8          
+0i                     TagNum: 307    Line: 1     Col: 12         
+-0                     TagNum: 308    Line: 1     Col: 15         
+0                      TagNum: 308    Line: 1     Col: 18         
+-1122                  TagNum: 308    Line: 2     Col: 1          
+-88392                 TagNum: 308    Line: 2     Col: 7          
+-21                    TagNum: 308    Line: 2     Col: 17         
+-3                     TagNum: 308    Line: 2     Col: 21         
+1                      TagNum: 308    Line: 3     Col: 1          
+2                      TagNum: 308    Line: 3     Col: 3          
+3                      TagNum: 308    Line: 3     Col: 5          
+4                      TagNum: 308    Line: 3     Col: 7          
+5                      TagNum: 308    Line: 3     Col: 9          
+6                      TagNum: 308    Line: 3     Col: 11         
+7                      TagNum: 308    Line: 3     Col: 13         
+8                      TagNum: 308    Line: 3     Col: 15         
+9                      TagNum: 308    Line: 3     Col: 17         
+10                     TagNum: 308    Line: 3     Col: 19         
+
+Unrecognized Token Line : 3 Column : 22 
+
+
+1n                     TagNum: 306    Line: 4     Col: 1          
+2n                     TagNum: 306    Line: 4     Col: 4          
+3n                     TagNum: 306    Line: 4     Col: 7          
+4n                     TagNum: 306    Line: 4     Col: 10         
+5n                     TagNum: 306    Line: 4     Col: 13         
+6n                     TagNum: 306    Line: 4     Col: 16         
+7n                     TagNum: 306    Line: 4     Col: 19         
+8n                     TagNum: 306    Line: 4     Col: 22         
+9n                     TagNum: 306    Line: 4     Col: 25         
+10n                    TagNum: 306    Line: 4     Col: 28         
+1i                     TagNum: 307    Line: 5     Col: 1          
+2i                     TagNum: 307    Line: 5     Col: 4          
+3i                     TagNum: 307    Line: 5     Col: 7          
+4i                     TagNum: 307    Line: 5     Col: 10         
+5i                     TagNum: 307    Line: 5     Col: 13         
+6i                     TagNum: 307    Line: 5     Col: 16         
+7i                     TagNum: 307    Line: 5     Col: 19         
+8i                     TagNum: 307    Line: 5     Col: 22         
+9i                     TagNum: 307    Line: 5     Col: 25         
+10i                    TagNum: 307    Line: 5     Col: 28         
+-1n                    TagNum: 306    Line: 6     Col: 1          
+-2n                    TagNum: 306    Line: 6     Col: 5          
+-3n                    TagNum: 306    Line: 6     Col: 9          
+-4n                    TagNum: 306    Line: 6     Col: 13         
+-5n                    TagNum: 306    Line: 6     Col: 17         
+-6n                    TagNum: 306    Line: 6     Col: 21         
+-7n                    TagNum: 306    Line: 6     Col: 25         
+-8n                    TagNum: 306    Line: 6     Col: 29         
+-9n                    TagNum: 306    Line: 6     Col: 33         
+-10n                   TagNum: 306    Line: 6     Col: 37         
+-1i                    TagNum: 307    Line: 7     Col: 1          
+-2i                    TagNum: 307    Line: 7     Col: 5          
+-3i                    TagNum: 307    Line: 7     Col: 9          
+-4i                    TagNum: 307    Line: 7     Col: 13         
+-5i                    TagNum: 307    Line: 7     Col: 17         
+-6i                    TagNum: 307    Line: 7     Col: 21         
+-7i                    TagNum: 307    Line: 7     Col: 25         
+-8i                    TagNum: 307    Line: 7     Col: 29         
+-9i                    TagNum: 307    Line: 7     Col: 33         
+-10i                   TagNum: 307    Line: 7     Col: 37         
+-1                     TagNum: 308    Line: 8     Col: 1          
+-2                     TagNum: 308    Line: 8     Col: 4          
+-3                     TagNum: 308    Line: 8     Col: 7          
+-4                     TagNum: 308    Line: 8     Col: 10         
+-5                     TagNum: 308    Line: 8     Col: 13         
+-6                     TagNum: 308    Line: 8     Col: 16         
+-7                     TagNum: 308    Line: 8     Col: 19         
+-8                     TagNum: 308    Line: 8     Col: 22         
+-9                     TagNum: 308    Line: 8     Col: 25         
+-10                    TagNum: 308    Line: 8     Col: 28         
+-1234567890n           TagNum: 306    Line: 9     Col: 1          
+
+Unrecognized Token Line : 9 Column : 14 
+
+
+-1234567890i           TagNum: 307    Line: 9     Col: 16         
+-1234567890            TagNum: 308    Line: 9     Col: 29         
+1234567890n            TagNum: 306    Line: 10    Col: 1          
+1234567890i            TagNum: 307    Line: 10    Col: 13         
+1234567890             TagNum: 308    Line: 10    Col: 25         
+
+Below is a list of errors (500 max)
+-----------------------------------
+Unrecognized Token On line 3 column 22
+Unrecognized Token On line 9 column 14
+
+
+Token Count : 76

@@ -1,0 +1,7 @@
+Error: syntax error line: 40
+Error: [1;31m Improper Declaration [0m line: 41
+Error: syntax error line: 42
+
+
+[0;33m There were errors parsing the document. Start by fixing the initial error.  Other errors may be uncovered as some are corrected.[0m
+
